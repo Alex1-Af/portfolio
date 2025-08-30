@@ -1,0 +1,60 @@
+--disable-gpu
+
+
+npm i gulp  -D
+
+npm i -D del
+
+npm i gulp-cli -g
+
+npm i gulp -D
+
+npm i -D gulp-file-include
+
+npm i -D gulp-replace
+
+npm i -D gulp-webp-html-nosvg
+
+npm i -D gulp-version-number
+
+npm i -D gulp-plumber gulp-notify
+
+npm i -D browser-sync
+
+npm i -D sass gulp-sass
+
+npm i -D sass gulp-rename
+
+npm i -D gulp-clean-css gulp-webpcss gulp-autoprefixer gulp-group-css-media-queries
+
+npm install webp-converter@2.2.3 --save-dev
+
+npm i -D webpack webpack-stream
+
+npm i -D swiper
+
+ npm i -D gulp-imagemin gulp-webp
+ 
+npm i -D gulp-newer 
+
+npm i -D gulp-fonter gulp-ttf2woff2
+
+
+
+npm i -D npm i -D gulp-if
+
+npm i -D gulp-zip
+
+npm i -D gulp-babel @babel/core @babel/preset-env
+
+/// npm run svgSprive
+/// npm run dev
+/// npm run build
+/// npm run zip
+/// npm i
+
+npm i 
+
+npm i -D webpack-stream style-loader css-loader --save-dev
+
+///npm i -D vanilla-lazyload
